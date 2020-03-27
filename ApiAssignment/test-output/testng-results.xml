@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4506" started-at="2020-03-27T09:49:42Z" finished-at="2020-03-27T09:49:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4506" started-at="2020-03-27T09:49:42Z" finished-at="2020-03-27T09:49:47Z">
+      <class name="in.reqres.GetAllUsers.InvalidUser">
+        <test-method status="PASS" signature="singleUser()[pri:0, instance:in.reqres.GetAllUsers.InvalidUser@5ae9a829]" name="singleUser" duration-ms="4488" started-at="2020-03-27T15:19:42Z" finished-at="2020-03-27T15:19:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleUser -->
+      </class> <!-- in.reqres.GetAllUsers.InvalidUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
